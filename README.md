@@ -20,3 +20,18 @@ Write a code to extract the information, provide relevant information, and run t
 **Step - 4: Store the data in the file**
 
 Store that information in required csv, xml, JSON file format.
+
+**-------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+**How to perform web scraping using the requests library and beautifulsoup library in Python.**
+
+**Installation**
+Install required packages.The basic command anywhere would be to open a command terminal and run,
+> pip install requests
+> pip install  bs4
+
+**Requests Module**
+Requests library is used for making HTTP requests to a specific URL and returns the response. Python requests provide inbuilt functionalities for managing both the request and response.
+
+**BeautifulSoup Library**
+BeautifulSoup is used extract information from the HTML and XML files. It provides a parse tree and the functions to navigate, search or modify this parse tree.
